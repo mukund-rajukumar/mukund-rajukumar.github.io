@@ -1,6 +1,6 @@
 title: "Mukund Rajukumar"
-author: "Mukund Rajukumar"
-description: "Mukund's personal website"
+# author: "Mukund Rajukumar"
+# description: "Mukund's personal website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
