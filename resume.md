@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 ---
 
-# Mukund Rajukumar  
 📧 [mukund.rajukumar@gmail.com](mailto:mukund.rajukumar@gmail.com) | 📞 858-761-7583 | 📍 Fremont, CA  
 [LinkedIn](https://linkedin.com/in/mukundrajukumar) | [GitHub](https://github.com/mukund-rajukumar)  
 
