@@ -4,6 +4,10 @@ title: Resume
 sitemap: false
 ---
 
+  - {title: Mail, icon: envelope, url: "mailto:mukund.rajukumar@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/mukund-rajukumar"}
+  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/mukundrajukumar/"}
+    
 📧 [mukund.rajukumar@gmail.com](mailto:mukund.rajukumar@gmail.com) 
 📞 858-761-7583
 📍 Fremont, CA  
