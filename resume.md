@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 📧 [mukund.rajukumar@gmail.com](mailto:mukund.rajukumar@gmail.com) | 📞 858-761-7583 | 📍 Fremont, CA  
