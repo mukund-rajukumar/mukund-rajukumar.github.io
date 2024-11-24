@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Resume
+# title: Resume
 sitemap: false
 ---
-    
+
+<h1 align="center">
+RESUME
+</h1>
+
 **Email:** [mukund.rajukumar@gmail.com](mailto:mukund.rajukumar@gmail.com)<br>
 **Phone:** [858-761-7583](tel:8587617583) <br>
 **LinkedIn:** [https://www.linkedin.com/in/mukundrajukumar](https://www.linkedin.com/in/mukundrajukumar) <br>
