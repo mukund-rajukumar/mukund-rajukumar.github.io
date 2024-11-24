@@ -2,9 +2,9 @@
 layout: page
 # title: Summary
 ---
-<h3 align="center">
+<h1 align="center">
 MY BACKGROUND
-</h3>
+</h1>
 
 ![Imaginary me](https://raw.githubusercontent.com/mukund-rajukumar/mukund-rajukumar.github.io/master/DALL%C2%B7E%20version%20of%20Mukund.png)
 
