@@ -4,10 +4,10 @@ title: Resume
 sitemap: false
 ---
     
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Android_Email_4.4_Icon.png" width="24"/> <a href="mailto:mukund.rajukumar@gmail.com"> mukund.rajukumar@gmail.com</a> <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Phone_iOS.png" width="24"/> 858-761-7583 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24"/> <a href="https://www.linkedin.com/in/mukundrajukumar/"> https://www.linkedin.com/in/mukundrajukumar/</a> <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="24"/> <a href="https://github.com/mukund-rajukumar"> https://github.com/mukund-rajukumar</a> 
+**Email:** [mukund.rajukumar@gmail.com](mailto:mukund.rajukumar@gmail.com)<br>
+**Phone:** [858-761-7583](tel:8587617583) <br>
+**LinkedIn:** [https://www.linkedin.com/in/mukundrajukumar](https://www.linkedin.com/in/mukundrajukumar) <br>
+**GitHub:** [https://github.com/mukund-rajukumar](https://github.com/mukund-rajukumar) 
 
 ---
 
