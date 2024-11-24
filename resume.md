@@ -3,6 +3,8 @@ layout: page
 title: Resume
 sitemap: false
 ---
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mukundrajukumar/)">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"/> LinkedIn</a>
 
   - {title: Mail, icon: envelope, url: "mailto:mukund.rajukumar@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/mukund-rajukumar"}
