@@ -3,18 +3,11 @@ layout: page
 title: Resume
 sitemap: false
 ---
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mukundrajukumar/)">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"/> LinkedIn</a>
-
-  - {title: Mail, icon: envelope, url: "mailto:mukund.rajukumar@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/mukund-rajukumar"}
-  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/mukundrajukumar/"}
     
-📧 [mukund.rajukumar@gmail.com](mailto:mukund.rajukumar@gmail.com) 
-📞 858-761-7583
-📍 Fremont, CA  
-[LinkedIn](https://linkedin.com/in/mukundrajukumar) 
-[GitHub](https://github.com/mukund-rajukumar)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Android_Email_4.4_Icon.png" width="24"/> <a href="mailto:mukund.rajukumar@gmail.com"> mukund.rajukumar@gmail.com</a> <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Phone_iOS.png" width="24"/> 858-761-7583 <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24"/> <a href="https://www.linkedin.com/in/mukundrajukumar/"> https://www.linkedin.com/in/mukundrajukumar/</a> <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="24"/> <a href="https://github.com/mukund-rajukumar"> https://github.com/mukund-rajukumar</a> 
 
 ---
 
