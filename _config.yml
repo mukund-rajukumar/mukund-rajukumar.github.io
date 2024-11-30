@@ -1,5 +1,6 @@
 title: "Mukund Rajukumar"
 permalink: /:title/
+description: "Mukund's product portfolio"
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
