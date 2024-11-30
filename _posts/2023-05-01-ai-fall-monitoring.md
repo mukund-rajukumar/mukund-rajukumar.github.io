@@ -1,4 +1,7 @@
-# AI based Elderly Fall Monitoring System
+---
+title:  "AI based Elderly Fall Monitoring System"
+layout: post
+---
 
 ## Overview
 A home based fall detection and notification system to keep seniors safe in their homes.
