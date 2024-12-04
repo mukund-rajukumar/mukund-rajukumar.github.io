@@ -3,7 +3,7 @@ layout: page
 # title: Summary
 ---
 
-![Imaginary me](/assets/DALL%C2%B7E%20version%20of%20Mukund.png)
+![Imaginary me](assets/DALL·E version of Mukund.png)
 _DALL-E's imagination of my current life_
 
 <h3 align="center">
