@@ -54,19 +54,21 @@ on their customers.
   7. Worried about losing customer trust because of GenAI hallucination or irresponsible use of AI
 
 ## Competitive Landscape of Cloud Infrastructure providers
-| Company                          | AI Dev/Train/Scale Capability | Non-AI Cloud | Onboarding Complexity | Pricing                   | Specialize in |
-|:---------------------------------|:------------------------------|:-------------|:----------------------|:--------------------------|:----------|
-| Digital Ocean                    | Yes                           | Yes          | Low                   | Low, Straightforward      | Developers/Startups  |
-| HyperScalers (AWS/Azure/GCP etc) | Yes                           | Yes          | High                  | Higher, Not straightfwd   | Enterprise class     |
-| Linode/Akamai                    | No                            | Yes          | Med                   | Medium, Straightforward   | Enterprises class    |
-| VMWare/Broadcom                  | No                            | Yes          | Med                   | Medium, Straightforward   | Private cloud Solutions  |
+
+| Company                          | AI Dev/Train/Scale Capability | Non-AI Cloud | Onboarding Complexity | Pricing                   | Specialize in                   |
+|:---------------------------------|:------------------------------|:-------------|:----------------------|:--------------------------|:--------------------------------|
+| Digital Ocean                    | Yes                           | Yes          | Low                   | Low, Straightforward      | Developers/Startups             |
+| HyperScalers (AWS/Azure/GCP etc) | Yes                           | Yes          | High                  | Higher, Not straightfwd   | Enterprise class                |
+| Linode/Akamai                    | No                            | Yes          | Med                   | Medium, Straightforward   | Enterprises class               |
+| VMWare/Broadcom                  | No                            | Yes          | Med                   | Medium, Straightforward   | Private cloud Solutions         |
 | Lambda AI                        | Yes                           | No           | Low                   | Medium, Straightforward   | On-prem pre-loaded servers, VMs |
-| Lepton AI                        | Yes                           | No           | Low                   | Medium, Straightforward   | NA |
-| Vultr AI                         | Yes                           | No           | Low                   | Medium, Straightforward   | AMD partner |
-| RunPod                           | Yes                           | No           | Low                   | Medium, Straightforward   | AI Dev/train/Scale, On-demand GPUs, Serverless APIs for inference |
+| Lepton AI                        | Yes                           | No           | Low                   | Medium, Straightforward   | NA                              |
+| Vultr AI                         | Yes                           | No           | Low                   | Medium, Straightforward   | AMD partner                     |
+| RunPod                           | Yes                           | No           | Low                   | Medium, Straightforward   | AI Dev/train/Scale              |
 
 
 ## Solutions
+
 | Unmet Need | Short Term (1-3 yrs) | Medium Term (3-5yrs) | Long Term (5-10yrs) |
 |:-----------|:---------------------|:---------------------|:--------------------|
 | I don’t know how GenAI can add value to my business  | Showcase key use-case for top 3 existing customer verticals[1] | GenAI apps that can be easily enabled on customer sites | AI Apps Marketplace |
