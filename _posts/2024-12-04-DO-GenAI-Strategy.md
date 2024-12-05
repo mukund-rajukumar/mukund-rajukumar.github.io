@@ -1,11 +1,15 @@
-# Digital Ocean GenAI Strategy
+---
+title:  "Digital Ocean GenAI Strategy"
+layout: post
+excerpt_separator: <!--more-->
+---
 
 *Disclaimer: This strategy is a draft proposal from my quick research on the company based on publicly available information. This will require further refining*
 
 ## Company Summary
 A public company offering cloud platform optimized for developers, startups and tech SMBs, helping customers worry less about managing their infrastructure and focus more
 on their customers.
-
+<!--more-->
 ### Key strengths: 
 - Easy and Simple for developers to use
 - Embraces Open source tech (Linux, K8s, Next.js etc)
