@@ -12,7 +12,7 @@ Digital Ocean empowers developers, startups and tech SMBs with a simple and affo
 
 ## Mission and Goals
 - Simplify and democratize access to GenAI capabilities
-- Grow adoption AI/ML infrastructure, targeting startups and SMBs
+- Grow adoption of AI/ML infrastructure, targeting startups and SMBs
 
 ## GenAI Customer Segmentation
 1. GenAI Developers/Providers
@@ -45,16 +45,15 @@ I have picked top 2 customer segments from the above list to understand their un
 
 ## Competitive Landscape of Cloud Infrastructure providers
 
-| Company                          | AI Dev/Train/Scale Capability | Non-AI Cloud | Onboarding Complexity | Pricing | Billing           | Specialize in                   |
-|:---------------------------------|:------------------------------|:-------------|:----------------------|:--------|:------------------|:--------------------------------|
-| Digital Ocean                    | Yes                           | Yes          | Low                   | Low     |: Straightforward  | Developers/Startups             |
-| HyperScalers (AWS/Azure/GCP etc) | Yes                           | Yes          | High                  | Higher  |: Not straightfwd  | Enterprise class                |
-| Linode/Akamai                    | No                            | Yes          | Med                   | Medium  |: Straightforward  | Enterprises class               |
-| VMWare/Broadcom                  | No                            | Yes          | Med                   | Medium  |: Straightforward  | Private cloud Solutions         |
-| Lambda AI                        | Yes                           | No           | Low                   | Medium  |: Straightforward  | On-prem pre-loaded servers, VMs |
-| Lepton AI                        | Yes                           | No           | Low                   | Medium  |: Straightforward  | NA                              |
-| Vultr AI                         | Yes                           | No           | Low                   | Medium  |: Straightforward  | AMD partner                     |
-| RunPod                           | Yes                           | No           | Low                   | Medium  |: Straightforward  | AI Dev/train/Scale              |
+| Company                          | AI/ML Focus      | General Cloud Services | Onboarding Complexity | Pricing | Billing Model     | Specialization                  |
+|:---------------------------------|:-----------------|:-----------------------|:----------------------|:--------|:------------------|:--------------------------------|
+| Digital Ocean                    | Emerging         | Yes                    | Low                   | Low     |: Straightforward  | Developers/Startups             |
+| HyperScalers (AWS/Azure/GCP etc) | Yes              | Yes                    | High                  | High    |: Complex, tiered  | Enterprise-grade solutions      |
+| Linode/Akamai                    | Limited          | Yes                    | Med                   | Medium  |: Straightforward  | Developers/SMBs                 |
+| VMWare/Broadcom                  | Limited          | Yes                    | Med                   | Medium  |: Straightforward  | Private, hybrid cloud solutions |
+| Lambda AI                        | Yes              | No                     | Low                   | Medium  |: Straightforward  | On-prem AI HW, Training servers |
+| Vultr                            | Emerging         | Yes                    | Low                   | Medium  |: Straightforward  | Cost-efficient compute, AMD partner |
+| RunPod                           | Yes              | No                     | Low                   | Medium  |: Straightforward  | Cost effective AI Dev/train/Scale   |
 
 ## Key Competitive Differentiators 
 - Simplified developer experience: Solutions tailored to startups and SMBs
@@ -66,8 +65,8 @@ I have picked top 2 customer segments from the above list to understand their un
 
 | Unmet Need | Short Term (1-3 yrs) | Medium Term (3-5yrs) | Long Term (5-10yrs) |
 |:-----------|:---------------------|:---------------------|:--------------------|
-| Non-savvy users: How can GenAI help my business  | AI use-case library across DO's top verticals | Pre-built GenAI templates for plug-n-play deployment | AI Apps Marketplace for tailored, industry-specific apps |
-| ML Engineers: Data challenges | DO-hosted synthetic data generation tools | Community-driven synthetic/real-world data exchanges | Virtual environments to generate data and test models |
+| Non-savvy users: How can GenAI help my business  | AI use-case library across DO's top verticals | Pre-built GenAI templates/solutions for plug-n-play deployment | AI Apps Marketplace for tailored, industry-specific apps |
+| ML Engineers: Data challenges | DO-hosted synthetic data generation tools | Community-driven synthetic/real-world data exchanges | Automated data/concept drift monitoring and management |
 | Model training cost and speed | Affordable GPU instances for fine-tuning models | Distributed training environment with cost optimizations | Fully managed model fine-tuning services|
 | Responsible AI concerns | Pre-configured model guardrails for hallucination reduction | Bias detection tools and transparency APIs  | Fully certified responsible AI workflows |
 
