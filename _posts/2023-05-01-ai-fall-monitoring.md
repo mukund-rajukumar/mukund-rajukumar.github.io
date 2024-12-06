@@ -4,7 +4,7 @@ layout: post
 excerpt_separator: <!--more-->
 ---
 
-![KamiCare Banner](https://raw.githubusercontent.com/mukund-rajukumar/mukund-rajukumar.github.io/main/assets/KamiCareBanner.png)
+![KamiCare Banner](https://raw.githubusercontent.com/mukund-rajukumar/mukund-rajukumar.github.io/main/assets/kami-care-banner.png)
 
 ## Overview
 A home based fall detection and notification system to keep seniors safe in their homes.
@@ -25,6 +25,7 @@ If I deliver a automatic fall detection and quick alerting system that is 99.9% 
 | **Technology Habits** <br> - Minimal experience with smart devices. <br> - Prefers simple solutions with clear, easy-to-follow instructions. | **Buying Triggers** <br> - Recent fall or health scare. <br> - Doctor’s recommendation for fall detection technology. <br> - Increased awareness of aging-related risks.  <br> - Transition to living alone. <br> - Desire to maintain independence. <br> - Interest in avoiding costly caregiving services. |
 
 ### Customer Persona 2
+
 | Devoted Daniel     | Adult child of elderly parents|   
 |:-------------------|:------------------|
 | <img src="https://raw.githubusercontent.com/mukund-rajukumar/mukund-rajukumar.github.io/main/assets/DevotedDaniel.jpg" alt="Alt Text" height="200"> | **Demographics** <br> Age: 35-50 <br> Status: Married with children and caring for elderly parents <br> Residence: Urban/sub-urban area <br> Income: Mid-level professional earning $150-$200K yearly | 
